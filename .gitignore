@@ -1,1 +1,4 @@
 key
+test.*
+__pycache__
+data
